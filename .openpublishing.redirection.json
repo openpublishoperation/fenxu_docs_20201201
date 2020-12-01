@@ -4,6 +4,11 @@
             "source_path": "fenxu_docs_20201201/test/red.md",
             "redirect_url": "/fenxu_docs_20201201/test.md",
             "redirect_document_id": false
+        },		
+        {
+            "source_path": "fenxu_docs_20201201/green.md",
+            "redirect_url": "/fenxu_docs_20201201/test.md",
+            "redirect_document_id": false
         }
     ]
 }
