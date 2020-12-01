@@ -3,6 +3,8 @@ title: test
 author: fenxu
 ---
 
-# Welcome to fenxu_docs_20201201!
+# Welcome to article
 
 This is [Red Article](red.md).
+
+This is [Green Article](green.md).
