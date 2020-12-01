@@ -1,8 +1,8 @@
 {
     "redirections": [
         {
-            "source_path": "fenxu_docs_20201201/red.md",
-            "redirect_url": "/fenxu_docs_20201201/index.md",
+            "source_path": "fenxu_docs_20201201/test/red.md",
+            "redirect_url": "/fenxu_docs_20201201/test.md",
             "redirect_document_id": false
         }
     ]
