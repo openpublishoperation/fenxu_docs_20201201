@@ -1,0 +1,9 @@
+{
+    "redirections": [
+        {
+            "source_path": "fenxu_docs_20201201/red.md",
+            "redirect_url": "/fenxu_docs_20201201/index.md",
+            "redirect_document_id": false
+        }
+    ]
+}
